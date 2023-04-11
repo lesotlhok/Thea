@@ -1,0 +1,4 @@
+Collecting libclang
+  Using cached libclang-14.0.6-py2.py3-none-win_amd64.whl (14.2 MB)
+Installing collected packages: libclang
+Successfully installed libclang-14.0.6
